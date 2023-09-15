@@ -45,6 +45,9 @@ Usage:-
 Enter a temperature value in the input field labeled "Enter temperature".
 
 
+Screenshot:-
+
+![btask2 website screenshot](https://github.com/JayaSaiVyshnaviKalepalli/BHARAT_SEPTEMBER/assets/127282939/bc2bc341-2b12-4668-88ca-8eedb240483a)
 
 
 After entering the value, press the "Enter" key, and you will see the temperature values updated in all three fields (C, K, and F).
