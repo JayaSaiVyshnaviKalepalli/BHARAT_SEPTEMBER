@@ -6,7 +6,8 @@ This project is a Home Page of Netflix built using HTML, CSS.
 
 screenshot
 
-![btask3-website screenshot](https://github.com/JayaSaiVyshnaviKalepalli/BHARAT_SEPTEMBER/assets/127282939/14c26615-b246-4bde-86dd-bf6bcf84eebe)
+![image](https://github.com/JayaSaiVyshnaviKalepalli/BHARAT_SEPTEMBER/assets/127282939/a975a0a2-0ed5-4e3b-889a-00641e72f929)
+
 
 
 Contact:-
